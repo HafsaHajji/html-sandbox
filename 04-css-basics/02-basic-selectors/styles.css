@@ -1,0 +1,45 @@
+body {
+    font-family: 'arial',sans-serif;
+}
+
+/* Type Selectors */
+/* h2 {
+    color: red;
+    font-size: 30px;
+}
+a {
+    color: blue;
+    text-decoration: none;
+} */
+
+.sporty {
+    color: red;
+}
+.casual {
+    color: blue;
+}
+
+.formal {
+    color: brown;
+}
+
+/* Id Selectors */
+#container {
+    max-width: 600px;
+    margin: 100px auto;
+    padding: 20px;
+}
+
+/* multiple styles */
+.sporty,
+.casual {
+    font-size: 35px;
+}
+
+p {
+    background: red;
+}
+/* Descedant style */
+#container p {
+    background: blue;
+}

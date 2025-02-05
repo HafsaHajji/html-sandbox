@@ -4,9 +4,25 @@ body {
 
 
 
+/* Color name */
+
+.spooky {
+  /* color: rebeccapurple; */
+  color: red;
+}
 
 
 /* Hex Values */
 .casual {
   color: #e04553;
 }
+
+/* RGBA */
+.card {
+  background-color: rgba(0, 0, 0, );
+  /* HSL */
+ background-color: hsl(hue, 100%, 50%); 
+/* HSLA */
+background-color: hsl(0, 100%, 50%, 0.2);
+}
+

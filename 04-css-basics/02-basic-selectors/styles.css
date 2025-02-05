@@ -1,5 +1,6 @@
 body {
     font-family: 'arial',sans-serif;
+    border: 3px solid red;
 }
 
 /* Type Selectors */
@@ -36,9 +37,9 @@ a {
     font-size: 35px;
 }
 
-p {
+/* p {
     background: red;
-}
+} */
 /* Descedant style */
 #container p {
     background: blue;

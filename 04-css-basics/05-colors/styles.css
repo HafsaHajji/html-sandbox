@@ -26,3 +26,11 @@ body {
 background-color: hsl(0, 100%, 50%, 0.2);
 }
 
+.card-2 {
+background: #000;
+color: #fff;
+/* opacity */
+opacity: 0.2;
+
+}
+

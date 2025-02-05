@@ -8,5 +8,13 @@ a {
 
 h2 {
     font-size: x-large;
-    
+    font-weight: 700;
+    font-style: normal;
+    font-variant: normal;
+
+/* font: italic small-caps 700 26px Arial */
+text-transform: capitalize;
+
+
+
 }

@@ -16,6 +16,7 @@ background-image: url(./hero.jpg);
 background-repeat: no-repeat;
 /* background-size: 200px; */
 background-size: cover;
+background-position: center;
 }
 
 .hero h1 {

@@ -2,5 +2,19 @@ body {
   font-family: Arial, sans-serif;
 }
 
+/* .container h1 {
+  color: blue;
+} */
+
+
+/* ID */
+#heading {
+  color: green;
+}
+
+.headings {
+  color: blue;
+}
 h1 {
   color: red;
+}

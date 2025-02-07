@@ -9,7 +9,8 @@ body {
 
 /* ID */
 #heading {
-  color: green;
+  /* color: green; */
+  color: purple !important;
 }
 
 /* class */
@@ -18,5 +19,5 @@ body {
 }
 /* element */
 h1 {
-  color: red;
+  color: red !important;
 }

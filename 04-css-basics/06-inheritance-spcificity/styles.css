@@ -12,9 +12,11 @@ body {
   color: green;
 }
 
+/* class */
 .headings {
   color: blue;
 }
+/* element */
 h1 {
   color: red;
 }

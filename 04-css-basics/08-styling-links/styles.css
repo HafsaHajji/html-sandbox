@@ -15,8 +15,13 @@ a:hover {
   color: red;
 }
 
-/* Active */
+/* Active = wuxu so muqanaa marka mouse la geeyo */
 a:active {
   color: #00f;
   background: purple;
+}
+
+/* active  = wuxu so muqanaa marka click siiso*/ 
+a:focus {
+  background: yellow;
 }

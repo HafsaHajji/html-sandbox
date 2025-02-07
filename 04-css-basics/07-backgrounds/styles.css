@@ -11,7 +11,9 @@ body {
   align-items: center;
   padding: 0 20px;
   /* background */
-  background-color: coral;
+  /* background-color: coral; */
+background-image: url(./hero.jpg);  
+
 }
 
 .hero h1 {

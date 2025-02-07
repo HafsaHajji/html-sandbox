@@ -25,3 +25,8 @@ a:active {
 a:focus {
   background: yellow;
 }
+
+/* visited */
+a:visited {
+  color: coral;
+}

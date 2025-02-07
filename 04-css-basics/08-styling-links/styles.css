@@ -12,5 +12,11 @@ color: #333;
 /* hover link */
 a:hover {
   text-decoration: underline;
-  color: #f00;
+  color: red;
+}
+
+/* Active */
+a:active {
+  color: #00f;
+  background: purple;
 }

@@ -10,6 +10,8 @@ body {
   justify-content: center;
   align-items: center;
   padding: 0 20px;
+  /* background */
+  background-color: coral;
 }
 
 .hero h1 {

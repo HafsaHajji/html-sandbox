@@ -41,8 +41,4 @@ main {
   height: 50cqh;
 }
 
-@container (max-width: 600px) {
-  .card {
-    width: 95cqw;
-  }
-}
+

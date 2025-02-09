@@ -1,12 +1,7 @@
 * {
-   
-  margin: 0px;
-  padding: 0px;
+  margin: 0;
+  padding: 0;
   box-sizing: border-box;
-  /* border: red solid 5px; */
-}
-body {
-  font-family: 'Poppins', sans-serif;
 }
 
 body {

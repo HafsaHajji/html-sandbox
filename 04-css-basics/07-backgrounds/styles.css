@@ -10,25 +10,22 @@ body {
   justify-content: center;
   align-items: center;
   padding: 0 20px;
-
-  /* background color */
+  /* Background Color */
   /* background-color: coral; */
 
-  /* background color and image */
-  /* background-image: url(./hero.jpg);  
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
-background-attachment:fixed ; */
+  /* Background Image */
+  /* background-image: url('./hero.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center; */
+  /* background-attachment: fixed; */
 
-/* as short cut image background */
+  background: url('./hero.jpg') no-repeat center/cover;
 
-/* background: url(./hero.jpg) no-repeat center center/cover; */
-
-/* Linear  background Grediant */
-background: linear-gradient(to bottom , lightblue ,darkblue);
-background: linear-gradient(to left , bottom lightgreen ,darkblue);
-
+  /* Linear gradient */
+  /* background: linear-gradient(to bottom, lightblue, darkblue);
+  background: linear-gradient(to left, lightgreen, darkblue);
+  background: linear-gradient(to bottom left, lightgreen, darkblue); */
 }
 
 .hero h1 {

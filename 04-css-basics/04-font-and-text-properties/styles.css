@@ -1,24 +1,23 @@
 body {
-    font-family: 'popins', sans-serif;
+  font-family: 'Poppins', sans-serif;
+  line-height: 2;
 }
 
 a {
-    text-decoration: none;
+  text-decoration: none;
 }
 
 h2 {
-    font-size: x-large;
-    font-weight: 700;
-    font-style: normal;
-    font-variant: normal;
+  font-size: x-large;
+  font-weight: 700;
+  font-style: normal;
+  font-variant: normal;
 
-/* font: italic small-caps 700 26px Arial */
-text-transform: capitalize;
-text-indent: 20px;
-letter-spacing: 2px;
-word-spacing: 5px;
-text-align: center;
+  /* font: italic small-caps 700 26px Arial; */
 
-
-
+  text-transform: capitalize;
+  text-indent: 20px;
+  letter-spacing: 2px;
+  word-spacing: 5px;
+  text-align: center;
 }

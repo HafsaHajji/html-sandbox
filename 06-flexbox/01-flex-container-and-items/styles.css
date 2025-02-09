@@ -5,16 +5,11 @@ body {
 .flex-container {
   background: #ccc;
   display: flex;
-  gap: 10px;
-  /* column-gap: 10px;
-  row-gap: 10px; */
-  /* flex container */
-  /* flex-direction: column; */
-   flex-direction: row; 
-  /* flex-direction: row-reverse; */
+  flex-direction: row;
   flex-wrap: wrap;
-  /* flex-wrap: wrap-reverse; */
-
+  gap: 10px;
+  /* row-gap: 10px; */
+  /* column-gap: 10px; */
 }
 
 .flex-item {

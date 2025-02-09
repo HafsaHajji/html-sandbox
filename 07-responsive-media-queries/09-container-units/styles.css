@@ -23,9 +23,7 @@ main {
   height: 100vh;
 }
 
-.card {
-  background: #fff;
-  padding: 2rem;
+.card {  padding: 2rem;
   margin: 1rem;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
   /* Container Units */

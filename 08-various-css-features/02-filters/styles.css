@@ -39,9 +39,9 @@ img {
 /* Web kits */
 /* -webkit-filter: grayscale(100%); */
 /* Chrome , opera,firefox/microsoft ege */
--moz-filter: grayscale(100%);
+/* -moz-filter: grayscale(100%);
 -o-filter : grayscale(100%);
--ms-filter: grayscale(100%);
+-ms-filter: grayscale(100%); */
 
   /* filter: brightness(200%); */
   /* filter: contrast(50%); */

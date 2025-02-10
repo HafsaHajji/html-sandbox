@@ -52,8 +52,8 @@ img {
   /* filter: hue-rotate(180deg); */
   /* filter: invert(100%); */
   /* filter: opacity(50%); */
-  filter: saturate(200%);
-  filter: sepia(100%);
+  /* filter: saturate(200%); */
+  /* filter: sepia(100%); */
 
   /* Chain Filters */
   /* filter: grayscale(100%) blur(5px); */

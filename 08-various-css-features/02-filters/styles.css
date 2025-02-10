@@ -43,9 +43,11 @@ img {
 -o-filter : grayscale(100%);
 -ms-filter: grayscale(100%); */
 
+/* Filters */
+
   /* filter: brightness(200%); */
   /* filter: brightness(100%); */
-  /* filter: contrast(50%); */
+  filter: contrast(50%);
   /* filter: drop-shadow(10px 10px 5px red); */
   /* filter: hue-rotate(180deg); */
   /* filter: invert(100%); */

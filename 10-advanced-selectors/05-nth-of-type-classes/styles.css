@@ -32,5 +32,18 @@ ul li:nth-of-type(odd) {
   background:  lightyellow;
 }
 /* nth-of-type vs nth-child */
+p:nth-of-type(2) {
+  font-weight: bold;
+}
 
+p:nth-child(2) {
+  color: red;
+}
 /* Using pseudo classes with pseudo elements */
+/* > =  this is direct tag */
+
+.container > p:first-of-type::first-letter {
+  font-weight: bold;
+  font-size: 2rem;
+  color: red;
+}

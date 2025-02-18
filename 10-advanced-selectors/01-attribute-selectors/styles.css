@@ -108,6 +108,6 @@ a[href$='.com'] {
   color: lightgreen;
 }
 /* Select only links that have a href attribute containing traversy */
-/* a[href*='traversy'] {
+a[href*='traversy'] {
   text-decoration: underline;
-} */
+}

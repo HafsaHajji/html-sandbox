@@ -44,10 +44,10 @@ input:required {
   border-color: red;
 }
 
-/* input::placeholder {
+input::placeholder {
   color: purple;
   font-weight: bold;
-} */
+}
 
 
 /* input::file-selector-button {

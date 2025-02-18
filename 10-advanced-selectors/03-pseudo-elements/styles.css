@@ -40,9 +40,9 @@ p::selection {
   background: yellow;
 }
 
-/* input:required {
+input:required {
   border-color: red;
-} */
+}
 
 /* input::placeholder {
   color: purple;

@@ -27,10 +27,28 @@ body {
   margin-bottom: 10px;
 }
 /* Get only unordered lists that are direct children of container */
-
+.container > ul {
+  list-style: none;
+ 
+}
 /* Get only links that are direct children of container */
-
+.container > a {
+  color: red;
+  
+}
 /* Get the immidiate sibling link after h1 */
-
+.container h1 + a {
+  color: green;
+  font-weight: bold;
+}
 /* Get all links that are siblings that come after h1 */
 
+.container h1 ~ a {
+  color: purple;
+
+}
+
+/* tusaale kale */
+.container > ul ~ div  {
+ background:blue;
+}

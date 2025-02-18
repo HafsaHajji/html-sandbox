@@ -9,7 +9,9 @@ ul li:first-child {
 }
 
 /* Style the last li of it's parent */
-
+ul li:last-child {
+background: lightcoral;
+}
 /* Style every odd item */
 
 /* Style every even item */

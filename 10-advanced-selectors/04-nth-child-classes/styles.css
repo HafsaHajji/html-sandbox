@@ -13,9 +13,13 @@ ul li:last-child {
 background: lightcoral;
 }
 /* Style every odd item */
-
+ul li:nth-child(odd) {
+  background: lightgreen;
+}
 /* Style every even item */
-
+ul li:nth-child(even) {
+  background: lightyellow;
+}
 /* Style every nth Item */
 
 /*  Style every 4th item */

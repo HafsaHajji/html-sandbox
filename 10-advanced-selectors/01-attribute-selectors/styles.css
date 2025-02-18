@@ -104,9 +104,9 @@ button[type='submit'] {
   color: yellow;
 } 
 /* Select only links that have a href attribute ending with .com */
-/* a[href$='.com'] {
+a[href$='.com'] {
   color: lightgreen;
-} */
+}
 /* Select only links that have a href attribute containing traversy */
 /* a[href*='traversy'] {
   text-decoration: underline;

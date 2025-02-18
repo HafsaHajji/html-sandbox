@@ -73,6 +73,9 @@ button:hover {
 }
 
 /* Select by type attribute */
+input[name='name'] {
+  border-color: blue;
+}
 
 /* Select by name attribute */
 

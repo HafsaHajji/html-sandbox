@@ -35,9 +35,9 @@ p::first-line {
   color: purple;
 }
  
-/* p::selection {
+p::selection {
   color: red;
-  background: yellow; */
+  background: yellow;
 }
 
 /* input:required {

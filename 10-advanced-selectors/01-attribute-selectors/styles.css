@@ -100,9 +100,9 @@ button[type='submit'] {
 }
 
 /* Select only links that have a href attribute starting with # */
-/* a[href^='#'] {
+ a[href^='#'] {
   color: yellow;
-} */
+} 
 /* Select only links that have a href attribute ending with .com */
 /* a[href$='.com'] {
   color: lightgreen;

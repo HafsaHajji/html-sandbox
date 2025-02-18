@@ -3,7 +3,9 @@ body {
 }
 
 /*  Style the first li of it's parent */
-
+ul li:first-of-type {
+  font-weight: bold;
+}
 /*  Style the last li of it's parent */
 
 /*  Style the 3rd item */

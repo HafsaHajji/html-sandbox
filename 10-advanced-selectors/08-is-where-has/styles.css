@@ -14,3 +14,37 @@ body {
   max-width: 600px;
   margin: 30px auto;
 }
+
+
+/* .container h1,
+.container h2,
+.container p {
+  color: red;
+} */
+
+/* as shorter using is */
+
+/* .container :is(h1,h2,p) {
+  color: blue;
+} */
+
+/* link state is */
+a:is(:hover, :focus) {
+  background-color: pink;
+}
+
+/* using where */
+
+/* .container :where(h1,h2,p) {
+  color: green;
+} */
+
+/* using has */
+.container:has(h1 span) {
+  color: red;
+}
+
+/* using has */
+h1:has(+ h2) {
+  color: blue;
+}

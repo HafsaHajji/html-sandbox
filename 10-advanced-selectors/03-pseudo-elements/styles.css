@@ -50,11 +50,11 @@ input::placeholder {
 }
 
 
-/* input::file-selector-button {
+input::file-selector-button {
   font-weight: bold;
   color: dodgerblue;
   background: #fff;
   padding: 0.5rem;
   border: thin solid gray;
-  border-radius: 3px; */
+  border-radius: 3px;
 }

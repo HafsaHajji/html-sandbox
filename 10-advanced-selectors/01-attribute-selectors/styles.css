@@ -90,14 +90,14 @@ input[required] {
 }
 
 /* Select password with a maxlength of 8 */
-/* input[type='password'][maxlength='8'] {
+input[type='password'][maxlength='8'] {
   background: green;
-} */
+}
 
 /* Select button with type of submit */
-/* button[type='submit'] {
+button[type='submit'] {
   background: purple;
-} */
+}
 
 /* Select only links that have a href attribute starting with # */
 /* a[href^='#'] {

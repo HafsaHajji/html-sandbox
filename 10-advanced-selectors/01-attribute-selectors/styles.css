@@ -72,7 +72,7 @@ button:hover {
   background-color: #0056b3;
 }
 
-/* Select by type attribute */
+/* Select by type attribute are 8*/
 
 /* Select by name attribute */
 input[name='name'] {
@@ -85,9 +85,9 @@ input[type='text'][id='name'] {
 }
 
 /* Select required inputs */
-/* input[required] {
+input[required] {
   border-color: red;
-} */
+}
 
 /* Select password with a maxlength of 8 */
 /* input[type='password'][maxlength='8'] {

@@ -22,7 +22,10 @@ body {
 */
 
 /* Get only paragraphs that are direct children of container */
-
+.container > p {
+  font-weight: bold;
+  margin-bottom: 10px;
+}
 /* Get only unordered lists that are direct children of container */
 
 /* Get only links that are direct children of container */

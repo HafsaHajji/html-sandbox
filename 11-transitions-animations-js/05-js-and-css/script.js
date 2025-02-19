@@ -1,9 +1,11 @@
 
 // console.log('hello world')
 
+let firstname='Hafsa';
 
+firstname='hassan'
 
-
+console.log(firstname)
 // const button = document.querySelector('#button');
 // const heading = document.querySelector('h1');
 

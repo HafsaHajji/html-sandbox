@@ -10,8 +10,11 @@
   width: 80px;
   height: 80px;
   position: relative;
-  animation: spin 2s linear infinite;
+   animation: spin 2s linear infinite;
+  /* background: black; */
 }
+
+/* Box Circle sida losameeyo */
 
 .loader::before,
 .loader::after {
@@ -31,14 +34,36 @@
   background: #e74c3c;
 }
 
+/* wareeg ayuu sameinaa asigoo le colors start,middle,end */
+/* @keyframes spin {
+  0% {
+    transform: rotate(0);
+    background: #3498db;
+  }
+  50% {
+   
+    background: #e74c3c;
+  }
+
+
+  100% {
+    transform: rotate(360deg);
+    background: #3498db;
+  }
+} */
+
 @keyframes spin {
   100% {
     transform: rotate(360deg);
+    
   }
 }
 
 @keyframes bounce {
-  0%,
+  0% {
+    transform: rotate(0);
+  }
+
   100% {
     transform: translateY(0);
   }

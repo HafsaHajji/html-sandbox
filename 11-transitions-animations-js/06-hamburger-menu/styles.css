@@ -29,29 +29,29 @@ img {
 }
 
 .navbar {
-  /* background: lightblue; */
-  /* padding: 1rem 2rem; */
-  /* height: 80px; */
+  background: lightblue;
+  padding: 1rem 2rem;
+  height: 80px;
 }
 
 .navbar .logo {
-  /* width: 50px; */
+  width: 50px;
 }
 
 .navbar-flex {
-  /* display: flex; */
-  /* justify-content: space-between; */
-  /* align-items: center; */
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .navbar .main-menu-list {
-  /* display: flex; */
-  /* gap: 1.5rem; */
-  /* align-items: center; */
+  display: flex;
+  gap: 1.5rem;
+  align-items: center;
 }
 
 .navbar a:hover {
-  /* color: blue; */
+  color: blue;
 }
 
 /* Mobile Menu */

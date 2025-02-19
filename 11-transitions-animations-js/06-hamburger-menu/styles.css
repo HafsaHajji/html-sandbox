@@ -91,7 +91,7 @@ img {
 
 @media (max-width: 768px) {
   .navbar .main-menu {
-    /* display: none; */
+    display: none;
   }
 
   .navbar .mobile-menu {

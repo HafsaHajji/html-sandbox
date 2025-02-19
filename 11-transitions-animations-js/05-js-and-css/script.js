@@ -1,15 +1,22 @@
 
 // console.log('hello world')
 
-let firstname='Hafsa';
+// Masoo bandhigayo.
 
-firstname='hassan'
+// let firstname='Hafsa';
+ 
+// Sida Loosoo bandhigo magacaga.
 
-console.log(firstname)
-// const button = document.querySelector('#button');
-// const heading = document.querySelector('h1');
+// firstname='hassan'
 
-// button.addEventListener('click', function () {
-//   // document.body.classList.toggle('dark');
-//   // heading.classList.toggle('yellow');
-// });
+// console.log(firstname)
+
+
+
+const button = document.querySelector('#button');
+const heading = document.querySelector('h1');
+
+button.addEventListener('click', function () {
+  document.body.classList.toggle('dark');
+  heading.classList.toggle('yellow');
+});

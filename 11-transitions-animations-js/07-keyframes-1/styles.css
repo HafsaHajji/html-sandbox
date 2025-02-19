@@ -14,9 +14,10 @@ body {
   animation: animate1 2s;
   animation-fill-mode: forwards;
   /* animation-delay: 2s; */
+  /* animation-iteration-count: 3; */
   animation-iteration-count: infinite;
   /* animation-direction: reverse; */
-  animation-timing-function: ease-out;
+  /* animation-timing-function: ease-out; */
   position: absolute;
 }
 

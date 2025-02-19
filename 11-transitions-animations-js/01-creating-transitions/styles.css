@@ -13,17 +13,17 @@ body {
   color: #fff;
   border: none;
   border-radius: 5px;
-  cursor: pointer;
-  width: 200px;
+  /* cursor: pointer; */
+  /* width: 200px; */
   /* transition: background-color 0.8s ease-in-out, color 0.8s; */
-  transition: all 0.8s ease-in-out;
+  /* transition: all 0.8s ease-in-out; */
 }
 
 .btn:hover {
-  background-color: #0056b3;
-  color: yellow;
-  width: 400px;
-  border-radius: 50px;
-  opacity: 0.5;
-  box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5);
+  /* background-color: #0056b3; */
+  /* color: yellow; */
+  /* width: 400px; */
+  /* border-radius: 50px; */
+  /* opacity: 0.5; */
+  /* box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.5); */
 }

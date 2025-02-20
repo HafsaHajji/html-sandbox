@@ -94,7 +94,7 @@ body {
   }
 }
 
-@keyframes headingMove {
+/* @keyframes headingMove {
   to {
     transform: translateY(0);
   }
@@ -104,9 +104,9 @@ body {
   to {
     transform: translateX(0);
   }
-}
+} */
 
-@media (max-width: 768px) {
+/* @media (max-width: 768px) {
   .page {
     h1 {
       font-size: 3.5rem;
@@ -116,4 +116,4 @@ body {
       font-size: 1.1rem;
     }
   }
-}
+} */

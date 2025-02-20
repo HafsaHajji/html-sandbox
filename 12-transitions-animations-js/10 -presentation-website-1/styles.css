@@ -94,17 +94,17 @@ body {
   }
 }
 
-/* @keyframes headingMove {
+ @keyframes headingMove {
   to {
     transform: translateY(0);
   }
-}
+ }
 
 @keyframes textMove {
   to {
     transform: translateX(0);
   }
-} */
+} 
 
 /* @media (max-width: 768px) {
   .page {

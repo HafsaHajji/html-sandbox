@@ -40,9 +40,9 @@ body {
 }
 
 /* Page Colors */
-/* #page-1 {
+#page-1 {
   background: var(--page-1-color);
-} */
+}
 
 #page-2 {
   background: var(--page-2-color);

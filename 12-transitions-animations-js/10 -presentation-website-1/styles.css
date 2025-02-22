@@ -65,13 +65,13 @@ body {
   /* margin-top: 3rem; */
   /* font-size: 1.1rem; */
   /* border: none; */
-  /* transition: all 0.5s ease-in; */
+  transition: all 0.5s ease-in;
 
   &:hover { 
     background: #333;
     color: #fff;
   }
-}
+
 
 .btn-dark {
   background: #333;

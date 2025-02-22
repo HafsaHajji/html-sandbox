@@ -67,9 +67,9 @@ body {
   /* border: none; */
   /* transition: all 0.5s ease-in; */
 
-  /* &:hover { */
+  &:hover { 
     /* background: #333; */
-    /* color: #fff; */
+    color: #fff;
   }
 }
 

@@ -10,7 +10,7 @@ body {
 }
 
 .header h1 {
-  text-align: center;
+  /* text-align: center; */
   font-size: 40px;
   text-indent: 20px;
 }

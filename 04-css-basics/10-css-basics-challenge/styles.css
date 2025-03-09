@@ -36,11 +36,11 @@ ul {
 ul.main-menu {
   /* background-color: #f4f4f4; */
   /* text-indent: 10px; */
-  text-transform: uppercase;
+  /* text-transform: uppercase; */
 }
 
 p.lead {
-  font-size: 20px;
+  /* font-size: 20px; */
   color: rebeccapurple;
   font-weight: bold;
 }

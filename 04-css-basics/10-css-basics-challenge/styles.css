@@ -17,11 +17,11 @@ body {
 
 a {
   /* text-decoration: none; */
-  color: #333;
+  /* color: #333; */
 }
 
 a:hover {
-  color: rebeccapurple;
+  /* color: rebeccapurple; */
 }
 
 a:active {

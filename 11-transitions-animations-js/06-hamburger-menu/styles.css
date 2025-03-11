@@ -47,7 +47,7 @@ img {
 .navbar .main-menu-list {
   /* display: flex; */
   /* gap: 1.5rem; */
-  align-items: center;
+  /* align-items: center; */
 }
 
 .navbar a:hover {

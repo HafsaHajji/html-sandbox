@@ -14,7 +14,7 @@ body {
   /* width: 100%; */
   /* height: 100%; */
   /* transform-style: preserve-3d; */
-  animation: rotateCube 5s infinite linear;
+  /* animation: rotateCube 5s infinite linear; */
 }
 
 .face {

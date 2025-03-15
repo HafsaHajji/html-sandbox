@@ -28,7 +28,7 @@ body {
 
 .front {
   /* background-color: #f00; */
-  /* transform: translateZ(100px); */
+  transform: translateZ(100px);
 }
 
 .back {

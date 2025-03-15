@@ -47,7 +47,7 @@ body {
 }
 
 .top {
-  /* background-color: #0ff; */
+  background-color: #0ff;
   transform: rotateX(90deg) translateZ(100px);
 }
 

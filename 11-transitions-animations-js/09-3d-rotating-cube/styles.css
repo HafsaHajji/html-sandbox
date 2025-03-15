@@ -32,7 +32,7 @@ body {
 }
 
 .back {
-  /* background-color: #00f; */
+  background-color: #00f;
   transform: rotateY(180deg) translateZ(100px);
 }
 

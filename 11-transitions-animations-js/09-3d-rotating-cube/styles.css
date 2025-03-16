@@ -18,7 +18,7 @@ body {
 }
 
 .face {
-  position: absolute;
+  /* position: absolute; */
   width: 200px;
   height: 200px;
   line-height: 200px;

@@ -109,7 +109,7 @@ body {
 @media (max-width: 768px) {
   .page {
     h1 {
-      font-size: 3.5rem;
+      /* font-size: 3.5rem; */
     }
 
     p {

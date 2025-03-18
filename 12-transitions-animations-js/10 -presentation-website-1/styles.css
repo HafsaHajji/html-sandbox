@@ -85,7 +85,7 @@ body {
 #page-1 {
   h1 {
     /* transform: translateY(-1200px); */
-    animation: headingMove var(--animate-speed) forwards ease-in;
+    /* animation: headingMove var(--animate-speed) forwards ease-in; */
   }
 
   p {

@@ -39,7 +39,7 @@ body {
   /* background: #2ecc71; */
   /* color: #fff; */
   /* line-height: 300px; */
-  /* transform: rotateY(180deg); */
+  transform: rotateY(180deg);
 }
 
 .front,

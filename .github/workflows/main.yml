@@ -1,0 +1,21 @@
+name: Auto Commit
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Wuxuu fulinayaa commit maalin kasta 12:00 AM UTC
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      - name: Create Dummy Commit
+        run: |
+          date > date.txt
+          git config --global user.name "HafsaHajji"
+          git config --global user.email "xafsaxaaji936@gmail.com"
+          git add date.txt
+          git commit -m "Automated commit to keep streak alive"
+          git push

@@ -38,7 +38,7 @@ body {
 .back {
   /* background: #2ecc71; */
   /* color: #fff; */
-  line-height: 300px;
+  /* line-height: 300px; */
   transform: rotateY(180deg);
 }
 

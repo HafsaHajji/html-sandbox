@@ -48,7 +48,7 @@ body {
 
 .top {
   background-color: #0ff;
-  /* transform: rotateX(90deg) translateZ(100px); */
+  transform: rotateX(90deg) translateZ(100px);
 }
 
 .bottom {

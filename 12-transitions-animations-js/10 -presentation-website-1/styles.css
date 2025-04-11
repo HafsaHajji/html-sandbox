@@ -89,7 +89,7 @@ body {
   }
 
   p {
-    /* transform: translateX(-1800px); */
+    transform: translateX(-1800px);
     animation: textMove var(--animate-speed) forwards ease-in;
   }
 }

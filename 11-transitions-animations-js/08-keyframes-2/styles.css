@@ -35,7 +35,7 @@
 }
 
 /* wareeg ayuu sameinaa asigoo le colors start,middle,end */
-/* @keyframes spin {
+@keyframes spin {
   0% {
     transform: rotate(0);
     background: #3498db;
@@ -50,7 +50,7 @@
     transform: rotate(360deg);
     background: #3498db;
   }
-} */
+}
 
 @keyframes spin {
   100% {

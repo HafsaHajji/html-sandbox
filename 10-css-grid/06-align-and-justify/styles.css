@@ -20,7 +20,7 @@ body {
   display: grid;
   grid-template-columns: repeat(3, 200px);
   grid-template-rows: repeat(3, 100px);
-  /* justify-content: space-evenly; */
+  justify-content: space-evenly;
   /* align-content: space-around; */
   /* justify-items: stretch; */
   /* align-items: end; */

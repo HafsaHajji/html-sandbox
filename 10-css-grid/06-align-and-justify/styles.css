@@ -23,7 +23,7 @@ body {
   justify-content: space-evenly;
   align-content: space-around;
   justify-items: stretch;
-  /* align-items: end; */
+  align-items: end;
   /* place-content: space-around; */
   place-items: center;
 }
